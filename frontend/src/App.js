@@ -1,4 +1,6 @@
+import data from "./data";
 function App() {
+  console.log(data.products);
   return (
     <>
       <header>
